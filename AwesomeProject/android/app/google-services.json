@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12636925112",
+    "project_id": "myreact-601ac",
+    "storage_bucket": "myreact-601ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12636925112:android:d02019c88515935cdc184d",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12636925112-nldag9a5385cp71rr91svhokvruggfba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWksrGjfwev9ZG9gz0MBdpSXmwiOpR-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12636925112-nldag9a5385cp71rr91svhokvruggfba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
